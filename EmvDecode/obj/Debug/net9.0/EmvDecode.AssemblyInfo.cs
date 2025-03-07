@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmvDecode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8a7bcff18fd2a1d2c4b3e04b5eeb449a0f743f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmvDecode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmvDecode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
