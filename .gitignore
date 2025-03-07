@@ -18,6 +18,13 @@ packages/
 **/[Pp]ackages/*
 !**/[Pp]ackages/build/
 
+# Ignorar arquivos gerados pelo NuGet
+obj/
+bin/
+*.nuget.dgspec.json
+project.assets.json
+project.packagespec.json
+
 # Ignorar arquivos temporários e logs
 *.tmp
 *.log
