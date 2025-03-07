@@ -1,0 +1,35 @@
+# Ignorar arquivos de configuração sensíveis
+*.config
+appsettings.json
+secrets.json
+nuget.config
+
+# Ignorar diretórios e arquivos gerados pelo build
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar pacotes NuGet
+*.nupkg
+packages/
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Ignorar arquivos temporários e logs
+*.tmp
+*.log
+*.cache
+.vs/
+.vscode/
+.idea/
+
+# Ignorar arquivos específicos do macOS
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de credenciais ou tokens
+*.pubxml
+*.publishproj

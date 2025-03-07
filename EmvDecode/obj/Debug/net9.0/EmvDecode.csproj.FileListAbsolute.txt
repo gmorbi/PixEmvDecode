@@ -12,3 +12,4 @@
 /Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/EmvDecode.pdb
 /Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/EmvDecode.genruntimeconfig.cache
 /Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/ref/EmvDecode.dll
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/EmvDecode.sourcelink.json
