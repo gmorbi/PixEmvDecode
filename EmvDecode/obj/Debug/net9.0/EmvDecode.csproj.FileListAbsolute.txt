@@ -1,0 +1,14 @@
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/bin/Debug/net9.0/EmvDecode
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/bin/Debug/net9.0/EmvDecode.deps.json
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/bin/Debug/net9.0/EmvDecode.runtimeconfig.json
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/bin/Debug/net9.0/EmvDecode.dll
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/bin/Debug/net9.0/EmvDecode.pdb
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/EmvDecode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/EmvDecode.AssemblyInfoInputs.cache
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/EmvDecode.AssemblyInfo.cs
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/EmvDecode.csproj.CoreCompileInputs.cache
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/EmvDecode.dll
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/refint/EmvDecode.dll
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/EmvDecode.pdb
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/EmvDecode.genruntimeconfig.cache
+/Users/gmorbi/Projects/EmvDecode/EmvDecode/obj/Debug/net9.0/ref/EmvDecode.dll
